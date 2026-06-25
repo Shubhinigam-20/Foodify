@@ -1,16 +1,31 @@
-# React + Vite
+# 🍔 Foodify - Food Ordering Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Foodify is a responsive food ordering web application built using React.js, Tailwind CSS, and Redux Toolkit. The application allows users to browse food items, search dishes, filter by categories, and manage their cart with a smooth user experience.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Responsive UI for mobile, tablet, and desktop devices
+- Food category filtering
+- Real-time search functionality
+- Add to Cart and Remove from Cart
+- Quantity management using Redux Toolkit
+- Interactive cart sidebar
+- Modern and user-friendly interface
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Tailwind CSS
+- JavaScript (ES6+)
+- Redux Toolkit
+- React Icons
+- Vite
 
-## Expanding the ESLint configuration
+## 🎯 Learning Outcomes
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React Component Architecture
+- State Management with Redux Toolkit
+- Context API
+- Responsive Design with Tailwind CSS
+- Dynamic Rendering and Filtering
+- Git & GitHub Workflow
